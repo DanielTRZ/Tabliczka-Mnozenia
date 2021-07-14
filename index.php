@@ -3,8 +3,7 @@
 <head>
     <title>Tabliczka Mnożenia</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="index.css">
-    
+    <link rel="stylesheet" href="index.css">   
 </head>
 <body>
     <h1>Tabliczka Mnożenia</h1>
@@ -41,7 +40,5 @@
         ?>
     
     </table>
-    
 </body>
-
 </html>
