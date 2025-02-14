@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Tabliczka Mnożenia</title>
+<title>Tabliczka Mnożenia</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="index.css">   
 </head>
