@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Tabliczka Mnożenia</title>
-    <meta charset="utf-8">
+<meta charset="utf-8">
     <link rel="stylesheet" href="index.css">   
 </head>
 <body>
