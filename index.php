@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>Tabliczka Mnożenia</h1>
-    <table>
+<table>
     <tr>
     <th></th>    
     <?php    
