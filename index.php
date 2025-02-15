@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="index.css">   
 </head>
 <body>
-    <h1>Tabliczka Mnożenia</h1>
+<h1>Tabliczka Mnożenia</h1>
     <table>
     <tr>
     <th></th>    
