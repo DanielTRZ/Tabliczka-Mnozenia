@@ -9,7 +9,7 @@
 <h1>Tabliczka Mnożenia</h1>
 <table>
 <tr>
-    <th></th>    
+<th></th>    
     <?php    
     
      $wiersz = 10;
