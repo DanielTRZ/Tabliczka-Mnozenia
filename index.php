@@ -10,7 +10,7 @@
 <table>
 <tr>
 <th></th>    
-    <?php    
+<?php    
     
      $wiersz = 10;
      $kolumna = 10;
