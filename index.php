@@ -12,7 +12,7 @@
 <th></th>    
 <?php    
     
-     $wiersz = 10;
+    $wiersz = 10;
      $kolumna = 10;
      for ($i = 1; $i <= $kolumna; $i++)
      {
