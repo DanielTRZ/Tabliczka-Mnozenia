@@ -26,7 +26,7 @@ echo "<th>" . $i ."</th>";
 for ($i = 1 ; $i <= $wiersz; $i++)
 {
 echo "<tr>";
-    echo "<th>" . $i . "</th>";
+echo "<th>" . $i . "</th>";
          for ($j = 1; $j<= $kolumna; $j++)
      {   
          echo "<td>";
