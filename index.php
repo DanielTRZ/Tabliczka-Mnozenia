@@ -21,7 +21,7 @@ echo "<th>" . $i ."</th>";
         
 ?>
 </tr>
-    <?php 
+<?php 
      
      for ($i = 1 ; $i <= $wiersz; $i++)
      {
