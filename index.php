@@ -16,7 +16,7 @@ $wiersz = 10;
 $kolumna = 10;
 for ($i = 1; $i <= $kolumna; $i++)
 {
-        echo "<th>" . $i ."</th>";
+    echo "<th>" . $i ."</th>";
      }
         
      ?>
