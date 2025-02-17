@@ -23,7 +23,7 @@ echo "<th>" . $i ."</th>";
 </tr>
 <?php 
      
-    for ($i = 1 ; $i <= $wiersz; $i++)
+for ($i = 1 ; $i <= $wiersz; $i++)
      {
          echo "<tr>";
          echo "<th>" . $i . "</th>";
