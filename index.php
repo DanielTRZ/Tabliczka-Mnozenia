@@ -20,7 +20,7 @@ echo "<th>" . $i ."</th>";
 }
         
 ?>
-    </tr>
+</tr>
     <?php 
      
      for ($i = 1 ; $i <= $wiersz; $i++)
