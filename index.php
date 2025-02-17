@@ -19,7 +19,7 @@ for ($i = 1; $i <= $kolumna; $i++)
 echo "<th>" . $i ."</th>";
 }
         
-     ?>
+    ?>
     </tr>
     <?php 
      
