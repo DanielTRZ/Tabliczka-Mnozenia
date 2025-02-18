@@ -28,7 +28,7 @@ for ($i = 1 ; $i <= $wiersz; $i++)
 echo "<tr>";
 echo "<th>" . $i . "</th>";
 for ($j = 1; $j<= $kolumna; $j++)
-     {   
+    {   
          echo "<td>";
          echo $i * $j;
          echo "</td>";         
