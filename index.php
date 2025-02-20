@@ -30,7 +30,7 @@ echo "<th>" . $i . "</th>";
 for ($j = 1; $j<= $kolumna; $j++)
 {   
 echo "<td>";
-        echo $i * $j;
+    echo $i * $j;
          echo "</td>";         
      }
          echo"</tr>";
