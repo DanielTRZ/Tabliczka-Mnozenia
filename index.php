@@ -39,6 +39,6 @@ echo $i * $j;
         
         ?>
     
-    </table>
+</table>
 </body>
 </html>
