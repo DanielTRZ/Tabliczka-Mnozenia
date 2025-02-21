@@ -32,7 +32,7 @@ for ($j = 1; $j<= $kolumna; $j++)
 echo "<td>";
 echo $i * $j;
 echo "</td>";         
-    }
+}
          echo"</tr>";
         
      }   
