@@ -33,7 +33,7 @@ echo "<td>";
 echo $i * $j;
 echo "</td>";         
 }
-         echo"</tr>";
+        echo"</tr>";
         
      }   
         
